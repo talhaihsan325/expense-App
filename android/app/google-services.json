@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "966486327351",
+    "project_id": "expanse-planner-b6c1f",
+    "storage_bucket": "expanse-planner-b6c1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966486327351:android:c6a064b23bbeadda8c3fb2",
+        "android_client_info": {
+          "package_name": "com.example.expanse_planner_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966486327351-15rinqrl86g5v4edcssvj8gn6m52qt5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd9Mg-5bKEqwlsP8TwQBmjXnZTAv8QJSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966486327351-15rinqrl86g5v4edcssvj8gn6m52qt5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
